@@ -1,0 +1,3 @@
+# Preserve the distributed game's UTF-8 BOM and line endings on Windows and Linux.
+global.ini -text
+*.zip -text

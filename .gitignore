@@ -1,0 +1,10 @@
+# Downloaded copyrighted source translation is not stored here: fetch from its publisher.
+sources/
+# Local tools and caches
+vendor/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+*.bak
+*.log
